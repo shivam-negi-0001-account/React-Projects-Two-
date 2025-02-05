@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": "92ef",
+      "name": "shivam negi",
+      "email": "shivamNegi@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "c244",
+      "name": "Preeti Kurmi",
+      "email": "pv966703@gmail.com",
+      "password": "567890"
+    },
+    {
+      "id": "07c5",
+      "name": "sanajy negi",
+      "email": "sn456@test.com",
+      "password": "sanjay123"
+    },
+    {
+      "id": "bdb4",
+      "name": "akash",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "52e6",
+      "name": "aks",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "de1c",
+      "name": "akash negi",
+      "email": "akku@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "f804",
+      "name": "ayush negi",
+      "email": "ayu124@gmail.com",
+      "password": "123321"
+    },
+    {
+      "id": "cc17",
+      "name": "manish negi",
+      "email": "manish@gmail.com",
+      "password": "1234567"
+    }
+  ],
+  "student": [
+    {
+      "id": "671b",
+      "student": {
+        "name": "shivam negi",
+        "course": "mren",
+        "fees": "10000"
+      }
+    },
+    {
+      "id": "a8e3",
+      "student": {
+        "name": "aman",
+        "course": "java",
+        "fees": "1232"
+      }
+    }
+  ]
+}
